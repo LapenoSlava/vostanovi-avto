@@ -13,6 +13,7 @@
             <input type="textbox" name="password" maxlength="15"><br>
         </p>
         <p><input type="submit" value="Sign in/up"></p>
+        <a href="registration.php">Forgot your password?</a>
     </form>
 </body>
 </html>
